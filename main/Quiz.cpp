@@ -13,7 +13,7 @@ int main(){
     string answer[] = {
         "Paris",
         "Mars",
-        "Willian Shakespeare"
+        "William Shakespeare"
     };
 
     int score = 0;
